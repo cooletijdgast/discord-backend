@@ -1,5 +1,5 @@
-import express, { Application, Request, Response } from 'express';
-import connection from "./src/util/connection";
+import express, { Application, Request, Response } from "express";
+import connection from "./util/connection";
 
 // Constants
 const PORT = 4000;

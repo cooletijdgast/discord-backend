@@ -76,7 +76,7 @@
     "rebuild": "npm run clean && npm run build",
     "release": "npm run rebuild && npm run lint && npm run format",
     "serve": "node dist/bin/soundbot.js",
-    "start": "npx ts-node-dev server.ts",
+    "start": "npx ts-node-dev src/server.ts",
     "test": "jest",
     "translations:download": "ts-node lib/downloadTranslations.ts"
   }
