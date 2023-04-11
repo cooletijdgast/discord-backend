@@ -27,7 +27,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get("/", (req, res) => {
-  const all = () => connection.get("sounds").value();
+  const all = () => connection.get("sounds").values();
   res.status(200).json(all());
 });
 
