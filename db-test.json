@@ -1,0 +1,485 @@
+{
+  "entrances": {
+    "298458225102159882": "homosnormaal",
+    "170153432181637120": "gaanjulliemaarvast",
+    "188357888723386368": "jijwistdithe",
+    "267331062051373066": "erica",
+    "1053388165307695164": "blow",
+    "106465248399081472": "hello"
+  },
+  "exits": {
+    "188357888723386368": "daag",
+    "1053388165307695164": "fuckjou",
+    "106465248399081472": "gauw",
+    "170153432181637120": "scheetecho",
+    "298458225102159882": "carrotfish"
+  },
+  "ignoreList": [],
+  "sounds": [
+    {
+      "name": "gaanjulliemaarvast",
+      "count": 25,
+      "tags": []
+    },
+    {
+      "name": "kerosine",
+      "count": 12,
+      "tags": []
+    },
+    {
+      "name": "bijpakken",
+      "count": 37,
+      "tags": []
+    },
+    {
+      "name": "kerncentrale",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "snuif",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "pushit",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "schreeuw",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "scream",
+      "count": 18,
+      "tags": []
+    },
+    {
+      "name": "druif",
+      "count": 25,
+      "tags": []
+    },
+    {
+      "name": "jijwistdithe",
+      "count": 24,
+      "tags": []
+    },
+    {
+      "name": "fuckjou",
+      "count": 32,
+      "tags": []
+    },
+    {
+      "name": "erica",
+      "count": 23,
+      "tags": []
+    },
+    {
+      "name": "erikava",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "bruh",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "erikavieze",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "blow",
+      "count": 26,
+      "tags": []
+    },
+    {
+      "name": "goodbye",
+      "count": 8,
+      "tags": []
+    },
+    {
+      "name": "dag",
+      "count": 16,
+      "tags": []
+    },
+    {
+      "name": "homos",
+      "count": 27,
+      "tags": []
+    },
+    {
+      "name": "scheet",
+      "count": 23,
+      "tags": []
+    },
+    {
+      "name": "jeugd",
+      "count": 130,
+      "tags": []
+    },
+    {
+      "name": "rtl",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "opletten",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "inc",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "jaman",
+      "count": 18,
+      "tags": []
+    },
+    {
+      "name": "champignon",
+      "count": 13,
+      "tags": []
+    },
+    {
+      "name": "skype",
+      "count": 103,
+      "tags": []
+    },
+    {
+      "name": "trekker",
+      "count": 8,
+      "tags": []
+    },
+    {
+      "name": "gauw",
+      "count": 24,
+      "tags": []
+    },
+    {
+      "name": "5euros",
+      "count": 8,
+      "tags": []
+    },
+    {
+      "name": "fart",
+      "count": 12,
+      "tags": []
+    },
+    {
+      "name": "pipes",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "windshear",
+      "count": 14,
+      "tags": []
+    },
+    {
+      "name": "gefeliciteerd",
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": "monk",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "monkoncar",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "geprankt",
+      "count": 9,
+      "tags": []
+    },
+    {
+      "name": "nat",
+      "count": 45,
+      "tags": []
+    },
+    {
+      "name": "steen",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "homos-1680288373335",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "bah",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "putin",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "putin2",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "hema",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "dream",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "california",
+      "count": 19,
+      "tags": []
+    },
+    {
+      "name": "appie",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "gangnam",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "party",
+      "count": 11,
+      "tags": []
+    },
+    {
+      "name": "kruitvat",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "moa",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "happy",
+      "count": 11,
+      "tags": []
+    },
+    {
+      "name": "ugaatdood",
+      "count": 9,
+      "tags": []
+    },
+    {
+      "name": "gangsta",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "vogel",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "oof",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "diamonds",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "peppa",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "tjoening",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "ea",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "pullup",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "allstar",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "jellybeans",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "cow",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "fuckyou",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "timmah",
+      "count": 11,
+      "tags": []
+    },
+    {
+      "name": "lefishe",
+      "count": 12,
+      "tags": []
+    },
+    {
+      "name": "carrotfish",
+      "count": 64,
+      "tags": []
+    },
+    {
+      "name": "scheet1",
+      "count": 5,
+      "tags": []
+    },
+    {
+      "name": "scheet2",
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": "scheetecho",
+      "count": 120,
+      "tags": []
+    },
+    {
+      "name": "pipesecho",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "dasboot",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "homosnormaal",
+      "count": 33,
+      "tags": []
+    },
+    {
+      "name": "firework",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "titanium",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "funk",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "aroundtheworld",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "imblue",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "flashbang",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "f1",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "shapeofyou",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "pumpedupkicks",
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": "rasputin",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "crabrave",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "waltuh",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "coffin",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "daag",
+      "count": 14,
+      "tags": []
+    },
+    {
+      "name": "hello",
+      "count": 13,
+      "tags": []
+    },
+    {
+      "name": "reinier",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "kernkraft2",
+      "count": 3,
+      "tags": []
+    },
+    {
+      "name": "hosselen",
+      "count": 2,
+      "tags": []
+    },
+    {
+      "name": "boef",
+      "count": 1,
+      "tags": []
+    }
+  ]
+}
