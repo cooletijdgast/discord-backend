@@ -70,7 +70,7 @@
   "scripts": {
     "build": "docker build -f back.Dockerfile . -t cooletijdgast/discord-web-backend",
     "push": "docker push cooletijdgast/discord-web-backend",
-    "build:push": "build && push",
+    "build:push": "npm run build && npm run push",
     "format:check": "prettier --config .prettierrc.yml --list-different '**/**.ts'",
     "format": "prettier --config .prettierrc.yml --write '**/**.ts'",
     "lint": "eslint --rulesdir ./vendor/rules/ -c .eslintrc.yml --ext ts .",

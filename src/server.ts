@@ -7,9 +7,19 @@ const HOST = "0.0.0.0";
 
 // App
 const app = express();
-
-app.use(function (_request: Request, response: Response, next) {
-  response.setHeader("Access-Control-Allow-Origin", "http://86.89.142.164:4200");
+app.use(function (request: Request, response: Response, next) {
+  const allowedOrigins = [
+    "http://86.89.142.164:4200",
+    "http://localhost:4200",
+  ];
+  const origin = request.headers.origin;
+  if (allowedOrigins.includes(origin!)) {
+    response.setHeader("Access-Control-Allow-Origin", origin!);
+  }
+  // response.setHeader(
+  //   "Access-Control-Allow-Origin",
+  //   "http://86.89.142.164:4200"
+  // );
   response.setHeader(
     "Access-Control-Allow-Methods",
     "GET, POST, OPTIONS, PUT, PATCH, DELETE"
