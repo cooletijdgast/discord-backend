@@ -9,7 +9,7 @@ const HOST = "0.0.0.0";
 const app = express();
 
 app.use(function (_request: Request, response: Response, next) {
-  response.setHeader("Access-Control-Allow-Origin", "http://localhost:4200");
+  response.setHeader("Access-Control-Allow-Origin", "http://86.89.142.164:4200");
   response.setHeader(
     "Access-Control-Allow-Methods",
     "GET, POST, OPTIONS, PUT, PATCH, DELETE"
