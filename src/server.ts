@@ -1,5 +1,6 @@
 import express, { Application, Request, Response } from "express";
 import connection from "./util/connection";
+import { watch } from 'node:fs';
 
 // Constants
 const PORT = 4000;
@@ -35,6 +36,15 @@ app.use(function (request: Request, response: Response, next) {
 // Body parsing Middleware
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+watch('db.json', (eventType, filename) => {
+  console.log(`event type is: ${eventType}`);
+  if (filename) {
+    console.log(`filename provided: ${filename}`);
+  } else {
+    console.log('filename not provided');
+  }
+}); 
 
 app.get("/", (req, res) => {
   const all = () => connection.get("sounds").values();
